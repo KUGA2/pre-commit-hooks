@@ -1,0 +1,7 @@
+- id: check-encoding
+  name: Check encoding of text files
+  description: Fails when the encoding is not in the allowd list.
+  entry: src/sh/check_encoding.sh
+  language: script
+  types: [text]
+
