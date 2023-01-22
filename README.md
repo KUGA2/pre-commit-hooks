@@ -5,7 +5,8 @@ A collection of useful [pre-commit](https://pre-commit.com/) hooks.
 ## check-encoding
 
 A pre-commit hook that checks the encoding of the files. See
-[check_encoding.sh](src/sh/check_encoding.sh) for options.
+[check_encoding.sh](src/sh/check_encoding.sh) for
+[args](https://pre-commit.com/index.html#config-args).
 
 ### Limitations
 
